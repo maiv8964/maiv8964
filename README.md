@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI Trip Planner Assistant<br>🌱 I’m currently learning ReactJS, Spring, and Flutter<br>📫 How to reach me: vincentmai82@gmail.com<br>💻 Looking to work on front-end development! 🚀 Passionate about user experience and front-end development!
+🔭 I’m currently working on an AI Trip Planner Assistant<br>🌱 I’m currently learning ReactJS, Spring, and Flutter<br>📫 How to reach me: vincentmai82@gmail.com<br>💻 Looking to work on front-end development!<br> 🚀 Passionate about improving user experience and front-end development!
 
 
 ## 🌐 Socials:
